@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# production
+build
+other
+
+# misc
+.DS_Store
+
+npm-debug.log
+yarn-error.log
+.yarnclean
+.vscode
+.idea
+.idea/workspace.xml
