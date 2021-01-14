@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <path d="M0 0H16V16H0z" transform="translate(-690 -168) translate(690 168)"/>
+                <path fill="#C2CFE0" fill-rule="nonzero" d="M2 11.302v2.5h2.5l7.373-7.374-2.5-2.5L2 11.302zm11.807-6.807c.26-.26.26-.68 0-.94l-1.56-1.56c-.26-.26-.68-.26-.94 0l-1.22 1.22 2.5 2.5 1.22-1.22z" transform="translate(-690 -168) translate(690 168)"/>
+            </g>
+        </g>
+    </g>
+</svg>
