@@ -12,6 +12,12 @@ It was interesting to implement Drag and Drop in native Javascript.
 * Native JS: Drag&Drop
 * js-datepicker
 
+___
+The first step is to **"Login"**</br>
+Test account:</br>
+* Login: alex@alex</br>
+* Password: 12345678</br>
+
 ### Pages
 1. [Login](https://alexsimakhin.github.io/JS-Project-4/index.html)
 2. [Sign Up](https://alexsimakhin.github.io/JS-Project-4/sign-up.html)
