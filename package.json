@@ -1,4 +1,5 @@
 {
+  "homepage": "https://alexsimakhin.github.io/JS-Project-4",
   "name": "js-personal-projects",
   "version": "0.0.1",
   "description": "Lectrum JS + ES6 course personal projects",
@@ -7,6 +8,8 @@
     "email": "aprisniak@lectrum.io"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "cross-env NODE_ENV=production webpack --config webpack/webpack.config.prod.js",
     "start": "webpack serve --mode development --env development --config webpack/webpack.config.dev.js",
     "start:prod": "npm run build && serve build/",
